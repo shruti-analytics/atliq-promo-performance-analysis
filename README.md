@@ -6,8 +6,10 @@ During Diwali 2023 and Sankranti 2024, the company ran large-scale promotions ac
 
 The analysis provides deep insights and recommendations across the following key areas:
 
-- **Store-Level Analysis:** Identifying top- and low-performing stores and cities during festive campaigns.
+- **Store-Level Analysis:** Identifying top and low-performing stores and cities during festive campaigns.
 - **Promotion Performance:** Measuring uplift in revenue and units sold across different promotion types.
 - **Product & Category Insights:** Understanding which categories and products responded best to promotions.
+
+An interactive PowerBI dashboard can be downloaded [here.]
 
   
