@@ -1,4 +1,4 @@
-# Atliq-promo-performance-analysis
+# AtliQMart-Promotional-Performance-Analysis
 # Project Background
 AtliQ Mart is one of South India’s leading retail supermarket chains, operating over 50 stores across major cities and emerging urban locations.
 
